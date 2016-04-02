@@ -1,10 +1,10 @@
 {
-    "name": "yuanchao/laravel-5-markdown-editor",
-    "description": "Based on the markdown editor laravel 5",
+    "name": "hongxu/laravel-5-amazeui-markdown-editor",
+    "description": "基于amazeui的Laravel5 Markdown编辑器",
     "authors": [
         {
-            "name": "yuanchao",
-            "email": "653069653@qq.com"
+            "name": "hongxu",
+            "email": "cnbrucehong@icloud.com"
         }
     ],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
       "psr-4": {
-        "YuanChao\\Editor\\":"src/"
+        "HongXu\\Editor\\":"src/"
       }
     }
 }
