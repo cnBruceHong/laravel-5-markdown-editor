@@ -93,16 +93,6 @@ $(function() {
             className: 'editor__menu--redo'
         },
         '|',
-        // {
-        //     name: 'fullscreen',
-        //     action: toggleBig,
-        //     className: 'editor__menu--zen'
-        // },
-        // {
-        //     name: 'zen',
-        //     action: toggleFullScreen,
-        //     className: 'editor__menu--two'
-        // }
         {
             name: 'fullscreen',
             action: toggleBig,
